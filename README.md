@@ -95,4 +95,4 @@ Thank you for visiting my development journey! Feel free to check out the code a
 
 ---
 
-© 2024 Your Name. All rights reserved.
+© 2024 Badal Prasad Singh. All rights reserved.
