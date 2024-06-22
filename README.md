@@ -65,6 +65,16 @@ Welcome to my development journey! This repository documents my progress through
 - 🌐 **Normalization** (Completed)
 - 📆 **Backend (continued)** (Completed)
 
+### June 20th
+- 🛠️ **Procedures** (Completed)
+- 🌐 **TCL** (Completed)
+- 📆 **Backend (continued)** (Completed)
+
+### June 21st
+- 🛠️ **Procedures** (Completed)
+- 🌐 **Functions** (Completed)
+- 📆 **Cursors** (Completed)
+
 ## 🌟 Highlights
 
 - 🌐 Developed and hosted a complete website.
