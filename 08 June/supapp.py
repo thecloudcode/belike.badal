@@ -14,7 +14,7 @@ class SupaUser(db.Model):
     email = db.Column(db.String)
 
 @app.route("/")
-def root():  # Changed function name for clarity
+def root(): 
     return "Success"
 
 @app.route("/users", methods=["POST"])
